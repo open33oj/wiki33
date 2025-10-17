@@ -1,0 +1,24 @@
+- [**首页/导航**](/)
+- 题解
+  - [比赛题解目录](sol/dir.md)
+- 模版
+  - [STL 容器库常用内容](tmpl/stl_container.md)
+  - [高精度封装](tmpl/bignum.md)
+  - [最近公共祖先](tmpl/lca.md)
+  - [线段树](tmpl/seg.md)
+  - [排序算法](tmpl/sort.md)
+- 文档
+  - 基础
+    - [基础框架](doc/BASE/A.md)
+    - [输出语句](doc/BASE/B.md)
+    - [变量与基础类型](doc/BASE/C.md)
+    - [赋值与数学运算](doc/BASE/D.md)
+    - [字符](doc/BASE/E.md)
+    - [整数编码](doc/BASE/F.md)
+  - 选择与循环
+    - [选择语句](doc/IFOR/A.md)
+    - [常见选择语句逻辑](doc/IFOR/B.md)
+    - [循环语句](doc/IFOR/C.md)
+    - [常见循环语句逻辑](doc/IFOR/D.md)
+
+- [教学约定](0.md)
