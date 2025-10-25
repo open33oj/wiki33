@@ -2,11 +2,12 @@
 - 题解
   - [比赛题解目录](sol/dir.md)
 - 模版
-  - [STL 容器库常用内容](tmpl/stl_container.md)
+  - [排序算法](tmpl/sort.md)
   - [高精度封装](tmpl/bignum.md)
+  - [STL 容器库常用内容](tmpl/stl_container.md)
   - [最近公共祖先](tmpl/lca.md)
   - [线段树](tmpl/seg.md)
-  - [排序算法](tmpl/sort.md)
+  - [线性代数](tmpl/linear-algebra.md)
 - 文档
   - 基础
     - [基础框架](doc/BASE/A.md)
