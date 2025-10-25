@@ -134,7 +134,7 @@ int gauss(int x)
     if (line <= x)
     {
         for (int i = line; i <= x; i++)
-            if (a[i][x + 1] != 0)
+            if (fabs(a[i][x + 1]) > eps)
                 return -1;
         return 0;
     }
