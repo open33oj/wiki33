@@ -1,5 +1,10 @@
 # 比赛题解目录
 
+## CSP-JS
+
+- [csp2025j2](sol/cspjs/csp2025j2.md)
+- [csp2025s2](sol/cspjs/csp2025s2.md)
+
 ## atcoder
 
 - [AtCoder Educational DP Contest](sol/atcoder/dp.md)
